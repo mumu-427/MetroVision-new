@@ -1,5 +1,6 @@
-gradio
-transformers
-torch
+transformers>=4.40
+torch>=2.1
+gradio>=4.0
 pillow
-ffmpeg-python
+huggingface_hub
+
